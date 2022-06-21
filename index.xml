@@ -2,17 +2,8 @@
     <channel>
         <title>Rigveds Blog</title>
         <link>http://rigvedrs.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 17:57:07 &#43;0530</lastBuildDate>
+        <description>This is my cool blog site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
             <atom:link href="http://rigvedrs.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Firstpost</title>
-    <link>http://rigvedrs.github.io/posts/firstpost/</link>
-    <pubDate>Tue, 21 Jun 2022 17:57:07 &#43;0530</pubDate>
-    <author>Author</author>
-    <guid>http://rigvedrs.github.io/posts/firstpost/</guid>
-    <description><![CDATA[Some content
-&rsquo;&rsquo;' public static void main(String[]args) { System.out.println(&ldquo;Printing&rdquo;); } &rsquo;'']]></description>
-</item>
-</channel>
+        </channel>
 </rss>
