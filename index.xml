@@ -3,7 +3,16 @@
         <title>Rigveds Blog</title>
         <link>http://rigvedrs.github.io/</link>
         <description>This is my cool blog site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 01:24:21 &#43;0530</lastBuildDate>
             <atom:link href="http://rigvedrs.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Cosine Similarity and Cosine Distance</title>
+    <link>http://rigvedrs.github.io/posts/cosinesimilarity/</link>
+    <pubDate>Sun, 03 Jul 2022 01:24:21 &#43;0530</pubDate>
+    <author>Rigved</author>
+    <guid>http://rigvedrs.github.io/posts/cosinesimilarity/</guid>
+    <description><![CDATA[In this section we&rsquo;re going to talk about two very simple concepts of cosine similarity and cosine distance
+Cosine similarity Cosine similarity is just a basic mathematical concept that we have used in higher algebra. It is simply the cosine of the angle between the two vectors. It can be calculated by finding the dot product between the vectors and dividing it by the product of the magnitude of the vectors.]]></description>
+</item>
+</channel>
 </rss>

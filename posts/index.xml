@@ -3,13 +3,14 @@
         <title>All Posts - Rigveds Blog</title>
         <link>http://rigvedrs.github.io/posts/</link>
         <description>All Posts | Rigveds Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 17:57:07 &#43;0530</lastBuildDate><atom:link href="http://rigvedrs.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Firstpost</title>
-    <link>http://rigvedrs.github.io/posts/firstpost/</link>
-    <pubDate>Tue, 21 Jun 2022 17:57:07 &#43;0530</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 01:24:21 &#43;0530</lastBuildDate><atom:link href="http://rigvedrs.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Cosine Similarity and Cosine Distance</title>
+    <link>http://rigvedrs.github.io/posts/cosinesimilarity/</link>
+    <pubDate>Sun, 03 Jul 2022 01:24:21 &#43;0530</pubDate>
     <author>Rigved</author>
-    <guid>http://rigvedrs.github.io/posts/firstpost/</guid>
-    <description><![CDATA[For referencing syntax and testing Outputing image  Rolls (figure)   Printing gist  Highlighting HTML &lt;section id=&#34;main&#34;&gt; &lt;div&gt; &lt;h1 id=&#34;title&#34;&gt;{{ .Title }}&lt;/h1&gt; {{ range .Pages }} {{ .Render &#34;summary&#34;}} {{ end }} &lt;/div&gt; &lt;/section&gt; For Code grunt.initConfig({ assemble: { options: { assets: &#39;docs/assets&#39;, data: &#39;src/data/*.{json,yml}&#39;, helpers: &#39;src/custom-helpers.js&#39;, partials: [&#39;src/partials/**/*.{hbs,md}&#39;] }, pages: { options: { layout: &#39;default.hbs&#39; }, files: { &#39;./&#39;: [&#39;src/templates/pages/index.hbs&#39;] } } } }; Commands for Creating and Deploying 201 202 203  hugo new posts/nameofpost.]]></description>
+    <guid>http://rigvedrs.github.io/posts/cosinesimilarity/</guid>
+    <description><![CDATA[In this section we&rsquo;re going to talk about two very simple concepts of cosine similarity and cosine distance
+Cosine similarity Cosine similarity is just a basic mathematical concept that we have used in higher algebra. It is simply the cosine of the angle between the two vectors. It can be calculated by finding the dot product between the vectors and dividing it by the product of the magnitude of the vectors.]]></description>
 </item>
 </channel>
 </rss>
